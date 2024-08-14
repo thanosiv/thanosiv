@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Gibbs</h1>
-<h3 align="center">A hard-working Business Intelligence and Analytics developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanosiv&label=Profile%20views&color=0e75b6&style=flat" alt="thanosiv" /> </p>
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanosiv" alt="thanosiv" /></a> </p-->
-
-- 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **cgibbs0682@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
